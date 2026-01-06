@@ -1,4 +1,4 @@
-# 📈 Project 87: AI-Driven Sentiment Trading System
+# Project 87: AI-Driven Sentiment Trading System
 
 A full-stack financial trading platform that executes trades based on real-time news sentiment analysis. This system integrates live market data, Natural Language Processing (NLP), and a persistence layer to automate "Bullish" or "Bearish" trading signals.
 
